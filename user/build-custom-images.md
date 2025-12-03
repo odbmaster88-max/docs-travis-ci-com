@@ -143,8 +143,8 @@ The **“More Options”** button and the actions menu for each custom image are
 
 Clicking the More options button provides users with the following choices:
 * **Select All** - selects all available custom images. 
-* **Set as Public** - sets the custom image as public.
-* **Set as Private** - sets the custom image as private.
+* **Set as Public** - sets the custom image as public. (In the future)
+* **Set as Private** - sets the custom image as private. (In the future)
 * **Delete** - deletes a single or multiple custom images.  
 
 Users can also use the action menu on the right side of the custom image to configure the options mentioned above. 
@@ -172,4 +172,4 @@ Exceeding the storage limits results in additional charges; therefore, users wit
 ### Switching Plans
 If the user decides to upgrade their plan, all add-ons attached to the plan are transferred to the new plan. 
 
-Would you like to upgrade? See our different plans [here](/user/billing-overview.md).
+Would you like to upgrade? See our different plans [here](/user/billing-overview/).
