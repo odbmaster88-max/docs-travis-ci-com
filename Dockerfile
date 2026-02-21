@@ -1,4 +1,4 @@
-FROM ruby:3.2-slim
+FROM ruby:3.4.8-alpine3.23
 LABEL maintainer="Travis CI GmbH <support+docs-docker-images@travis-ci.com>"
 
 # packages required for bundle install
